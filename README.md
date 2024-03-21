@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-satyajeet&theme=dark&hide_border=false" style="margin-right: 60px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-satyajeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 400px; height: 196px; margin-left: 60px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-satyajeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 350px; height: 196px; margin-left: 60px;">
 </p>
 
 
