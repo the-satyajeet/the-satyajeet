@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://the-satyajeet.netlify.app/CV.pdf](https://the-satyajeet.netlify.app/CV.pdf)
 
-- ⚡ Fun fact **I don't code in my dreams, actually I do sometimes 🥴**
+- ⚡ Fun fact **It’s all 0’s and 1’s 🥴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
