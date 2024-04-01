@@ -34,5 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-satyajeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 350px; height: 196px; margin-left: 60px;">
 </p>
 
+<code>
+  <a href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+
 
 
