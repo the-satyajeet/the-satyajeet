@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyajeet Gaur</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">👋, My name is Satyajeet Gaur</h1>
+<h3 align="center">and I am a software developer</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-satyajeet" alt="the-satyajeet" /></a> </p> -->
 
